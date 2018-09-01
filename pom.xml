@@ -3,7 +3,7 @@
     <modelVersion>4.0.0</modelVersion>
     <parent>
         <groupId>org.jenkins-ci.plugins</groupId>
-        <artifactId>plugin</artifactId>
+        <artifactId>stride-notification</artifactId>
         <version>2.33</version>
         <relativePath />
     </parent>
@@ -15,7 +15,7 @@
     </properties>
     <name>Stride Notification</name>
     <description>Send build result to stride group</description>
-    <url>https://wiki.jenkins-ci.org/display/JENKINS/TODO+Plugin</url>
+    <url>https://wiki.jenkins.io/display/JENKINS/Stride+Notification+Plugin</url>
     <licenses>
         <license>
             <name>MIT License</name>
